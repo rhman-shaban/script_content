@@ -1,0 +1,93 @@
+.custom_bottom {
+    margin-bottom: 100px;
+}
+
+.custom-opacity {
+    opacity: 0.8
+}
+
+.loading-icon {
+    margin-right: 10px;
+    font-size: 15px !important;
+}
+
+.map_popup_content_map iframe,
+.contact_map iframe,
+.listing_det_location iframe {
+    width: 100%;
+}
+
+.custom_badge {
+    background: rgb(41, 155, 75);
+    padding: 3px;
+    color: #fff;
+    font-size: 10px;
+    border-radius: 10%;
+}
+
+@media print {
+    .read_btn,
+    .dashboard_menu {
+        display: none!important;
+    }
+}
+
+.old_image_class {
+    width: 380px;
+    padding: 10px;
+}
+
+.custom_btn_style {
+    margin-left: 5px;
+}
+
+.wsus_schedule_create_single input {
+    width: 100%;
+    border: 1px solid #C8D3FF;
+    padding: 15px 15px 15px 8px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #888;
+    resize: none;
+}
+
+#wsus__login_popup textarea {
+    width: 100%;
+    border: 1px solid #C8D3FF;
+    padding: 15px 20px;
+    border-radius: 5px;
+    margin-bottom: 25px;
+    resize: none;
+    font-size: 16px;
+    font-weight: 400;
+    color: #07123B;
+}
+
+.wsus__category_text_center .green2,
+.wsus__location_text .green2,
+.wsus__featured_single .green2 {
+    background: #02b910;
+}
+
+.razorpay-payment-button {
+    border: none;
+    font-size: 16px !important;
+    color: #fff !important;
+    border-radius: 4px !important;
+    padding: 10px 20px !important;
+    text-transform: capitalize;
+    font-weight: 500 !important;
+    position: relative !important;
+    overflow: hidden !important;
+    font-family: 'Roboto', sans-serif !important;
+    transition: all linear .3s;
+    -webkit-transition: all linear .3s ease;
+    -moz-transition: all linear .3s ease;
+    -ms-transition: all linear .3s ease;
+    -o-transition: all linear .3s ease;
+}
+
+.read_btn {
+    border: none !important;
+}

@@ -1,0 +1,2209 @@
+@media (min-width: 1400px) {
+    .wsus__featured_single_text h6 {
+        font-size: 16px;
+    }
+    .contact_box_icon {
+        width: 30%;
+        padding: 40px 63px;
+    }
+    #listing_grid {
+        padding: 100px 0px 85px 0px;
+    }
+    .list_view .wsus__featured_single span {
+        top: 7px;
+    }
+    /* DASHBOARD PAGE START */
+    .wsus__featured_single {
+        margin-bottom: 15px;
+    }
+    .dashboard_table .active_left,
+    .dashboard_table .package_right {
+        min-width: 50%;
+    }
+    .manage_dashboard_single i {
+        font-size: 50px;
+    }
+    .dashboard_content {
+        padding: 110px 15px 45px 0px;
+    }
+    /* CREATE LISTING START */
+    .medicine_row_input input {
+        width: 88%;
+    }
+    .medicine_row_input button {
+        width: 10%;
+    }
+    /* DASHBOARD LISTING */
+    .active_inactive_text {
+        padding: 60px 20px 20px 20px;
+    }
+    .active_inactive_text h3 {
+        font-size: 20px;
+    }
+    /* DASHBOARD ORDER */
+    .my_listing .table tr td {
+        font-size: 14px;
+    }
+    .my_listing .table .package,
+    .my_listing .table .e_date,
+    .my_listing .table .p_date {
+        min-width: 145px;
+    }
+    .my_listing .table .price {
+        min-width: 100px;
+    }
+    .my_listing .table .method {
+        min-width: 150px;
+    }
+    .my_listing .table .tr_id {
+        min-width: 300px;
+    }
+    /* DASHBOARD PROFILE*/
+    .profile_pic_upload {
+        height: 330px;
+    }
+    .banner_pic_upload input {
+        width: 80%;
+    }
+    /* DASHBOARD REVIEW */
+    .visitor_rev_single {
+        padding: 10px;
+    }
+    .visitor_rev_text .title {
+        font-size: 17px;
+    }
+    .visitor_rev_text .title span {
+        font-size: 13px;
+        margin-left: 5px;
+    }
+    .visitor_rev_text p {
+        font-size: 13px;
+        margin: 3px 0px 5px 0px;
+    }
+    .visitor_rev_text .small_text {
+        margin-bottom: 10px;
+    }
+    .map_popup_content img {
+        width: 30% !important;
+        float: left;
+    }
+    .map_popup_text {
+        width: 70%;
+        float: left;
+        padding: 10px 0px 10px 20px;
+        padding-bottom: 0;
+    }
+    .map_popup_content {
+        margin-bottom: 15px;
+    }
+    .map_popup_content_map {
+        height: 250px;
+    }
+    .list_view .wsus__featured_single_text {
+        position: relative;
+        width: 50%;
+        float: left;
+        text-align: left;
+        padding: 43px 20px 20px 20px;
+    }
+    #wsus__map_popup .modal-dialog {
+        width: 1000px;
+    }
+    #wsws__404_page {
+        margin: 71px 0px 121px 0px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1399.99px) {
+    .wsus__banner_text h1 {
+        font-size: 50px;
+    }
+    .wsus__feature_single h5 {
+        font-size: 20px;
+    }
+    .wsus__feature_single {
+        padding: 35px;
+    }
+    .wsus__counter_top_text h5 {
+        font-size: 30px;
+        text-align: center;
+    }
+    /* CONTACT PAGE START */
+    .contact_box_icon {
+        padding: 40px;
+        width: 25%;
+    }
+    .contact_box_text {
+        width: 75%;
+    }
+    /* LISTING GRID VIEW */
+    #listing_grid {
+        padding: 100px 0px 90px 0px;
+    }
+    .wsus__featured_single {
+        margin-bottom: 10px;
+    }
+    /* LISTING LIST VIEW */
+    .list_view .wsus__featured_single_text {
+        padding: 45px 20px 20px 20px;
+    }
+    .list_view .wsus__featured_single_text .list_details {
+        margin-top: 10px;
+    }
+    .list_view .wsus__featured_single_text h6 {
+        font-size: 20px;
+    }
+    .list_view .wsus__featured_single span {
+        top: 7px;
+    }
+    /* DASHBOARD START */
+    .dashboard_sidebar {
+        width: 23%;
+    }
+    .manage_dashboard_single {
+        margin-bottom: 30px;
+    }
+    .active_package {
+        margin-top: 0;
+    }
+    .dashboard_table .active_left,
+    .dashboard_table .package_right {
+        min-width: 50%;
+    }
+    /* CREATE LISTING START */
+    .medicine_row_input input {
+        width: 83%;
+    }
+    .medicine_row_input button {
+        width: 15%;
+    }
+    /* DASHBOARD ORDER */
+    .my_listing .table tr td {
+        font-size: 14px;
+    }
+    .my_listing .table .package,
+    .my_listing .table .e_date,
+    .my_listing .table .p_date {
+        min-width: 150px;
+    }
+    .my_listing .table .price {
+        min-width: 100px;
+    }
+    .my_listing .table .method {
+        min-width: 150px;
+    }
+    .my_listing .table .tr_id {
+        min-width: 300px;
+    }
+    /* DASHBOARD PROFILE */
+    .profile_pic_upload {
+        height: 332px;
+    }
+    .banner_pic_upload input {
+        width: 80%;
+    }
+    .map_popup_content img {
+        width: 40% !important;
+        float: left;
+    }
+    .map_popup_text {
+        width: 60%;
+        float: left;
+        padding: 10px 0px 0px 10px;
+    }
+    .map_popup_content {
+        margin-bottom: 15px;
+    }
+    .map_popup_content_map {
+        height: 220px;
+    }
+    .wsus__single_comment_img img {
+        width: 65px !important;
+        height: 65px;
+    }
+    .wsus__category_single {
+        height: 220px;
+    }
+    #wsws__404_page {
+        margin: 35px 0px 84px 0px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.99px) {
+    .right_menu .dropdown {
+        margin-left: 20px;
+    }
+    .main_menu li a {
+        margin: 0px 5px;
+    }
+    .right_menu li a {
+        margin: 0 !important;
+    }
+    .wsus__search_area {
+        margin-bottom: 10px;
+    }
+    #wsus__banner form {
+        padding-bottom: 0;
+    }
+    .slick-dots {
+        display: none !important;
+    }
+    .wsus__category_slider_area {
+        margin: 100px 0px;
+    }
+    #wsus__features {
+        padding: 100px 0px 100px 0px;
+    }
+    .wsus__counter_top_video {
+        margin-top: 40px;
+    }
+    #wsus__map_popup .modal-dialog {
+        width: 87%;
+    }
+    .map_popup_content img {
+        width: 35% !important;
+        float: left;
+    }
+    .map_popup_text {
+        width: 65%;
+        float: left;
+    }
+    .map_popup_content {
+        margin-bottom: 15px;
+    }
+    .map_popup_content_map {
+        height: 220px;
+    }
+    .subs_text h3 {
+        text-align: center;
+    }
+    .subs_text p {
+        margin: 10px 0px;
+        text-align: center;
+    }
+    .single_blog h4 {
+        font-size: 17px;
+    }
+    .footer_text {
+        margin-bottom: 44px;
+    }
+    footer h3 {
+        margin-bottom: 25px;
+    }
+    .footer_bottom {
+        margin-top: 50px;
+    }
+    .wsus__banner_overlay {
+        padding: 150px 0px 230px 0px;
+    }
+    .wsus__banner_text h1 {
+        font-size: 50px;
+    }
+    #wsus__category_slider .nxt_arr {
+        right: -18px;
+    }
+    #wsus__category_slider .prv_arr {
+        left: -18px;
+    }
+    /* ABOUT PAGE START */
+    .bread_overlay {
+        padding: 55px 0px 45px 0px;
+    }
+    #breadcrumb_part nav {
+        margin-top: 15px;
+    }
+    .about_text h4,
+    .about_text p {
+        text-align: center;
+    }
+    /* BLOG DETAILS PAGE START */
+    .sidebar_blog_text h5 {
+        font-size: 15px;
+    }
+    .sidebar_blog_text p span {
+        margin-right: 10px;
+        padding-right: 5px;
+    }
+    .main_blog_header li a {
+        font-size: 14px;
+        margin-right: 15px;
+        padding-right: 15px;
+    }
+    .main_blog h4 {
+        font-size: 23px;
+    }
+    /* CONTACT PAGE START */
+    .contact_box_icon {
+        padding: 40px;
+    }
+    /* LISTING DETAILS PAGE START */
+    .listing_details_sidebar {
+        margin-top: 30px;
+    }
+    /* LISTING GRID VIEW */
+    #listing_grid {
+        padding: 100px 0px 90px 0px;
+    }
+    .wsus__featured_single {
+        margin-bottom: 10px;
+    }
+    /* LISTING LIST VIEW */
+    .listing_grid_sidbar {
+        margin-bottom: 30px;
+        padding: 15px;
+    }
+    .list_view .small_text {
+        right: 52% !important;
+    }
+    .list_view .wsus__featured_single_text h6 {
+        font-size: 18px;
+    }
+    /* DASHBOARD START */
+    .dashboard_sidebar {
+        width: 30%;
+        transform: scaleX(0);
+        transform-origin: left;
+        transition: all linear .3s;
+        -webkit-transition: all linear .3s ease;
+        -moz-transition: all linear .3s ease;
+        -ms-transition: all linear .3s ease;
+        -o-transition: all linear .3s ease;
+        -webkit-transform: scaleX(0);
+        -moz-transform: scaleX(0);
+        -ms-transform: scaleX(0);
+        -o-transform: scaleX(0);
+    }
+    .dashboard_sidebar .close_icon {
+        display: block;
+    }
+    .dashboard_sidebar.\.menu_show {
+        transform: scaleX(1);
+        -webkit-transform: scaleX(1);
+        -moz-transform: scaleX(1);
+        -ms-transform: scaleX(1);
+        -o-transform: scaleX(1);
+    }
+    .dashboard_content {
+        padding: 110px 10px 45px 0px;
+    }
+    .manage_dashboard_single {
+        padding: 20px;
+        margin-bottom: 30px;
+    }
+    .manage_dashboard_single i {
+        font-size: 35px;
+    }
+    .dashboard_table .active_left,
+    .dashboard_table .package_right {
+        min-width: 50%;
+    }
+    .active_package {
+        padding: 30px;
+    }
+    .active_package {
+        margin-top: 0;
+    }
+    /* DASHBOARD ORDER */
+    .my_listing .table tr td {
+        font-size: 14px;
+    }
+    .my_listing .table .package,
+    .my_listing .table .e_date,
+    .my_listing .table .p_date {
+        min-width: 150px;
+    }
+    .my_listing .table .price {
+        min-width: 100px;
+    }
+    .my_listing .table .method {
+        min-width: 150px;
+    }
+    .my_listing .table .tr_id {
+        min-width: 300px;
+    }
+    /* DASHBOARD PROFILE */
+    .profile_pic_upload {
+        margin-bottom: 15px;
+    }
+    .banner_pic_upload input {
+        width: 80%;
+    }
+    .list_view .open,
+    .list_view .close {
+        left: auto;
+        right: 10px;
+    }
+    .wsus__single_comment_img {
+        width: 15%;
+    }
+    .wsus__single_comment_img img {
+        width: 65px !important;
+        height: 65px;
+    }
+    .wsus__single_comment_text {
+        width: 85%;
+    }
+    .list_view .wsus__featured_single_text {
+        position: initial;
+        padding: 15px 20px 20px 20px;
+    }
+    .list_view .wsus__featured_single_text .list_details {
+        font-size: 13px;
+        margin-top: 5px;
+    }
+    .listing_grid_sidbar .form-check .form-check-label {
+        font-size: 13px;
+    }
+    #wsws__404_page {
+        margin: 33px 0px 87px 0px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.99px) {
+    /* TOPBAR START */
+    .wsus__topbar_left li a {
+        font-size: 13px;
+    }
+    .wsus__topbar_right li a {
+        font-size: 13px;
+    }
+    .read_btn {
+        font-size: 14px;
+    }
+    /* MENU START */
+    .main_menu {
+        height: 60px;
+        border-bottom: 1px solid #2046DA;
+    }
+    .right_menu {
+        justify-content: center;
+        width: 100%;
+    }
+    .main_menu .navbar-brand {
+        margin-left: 15px;
+    }
+    .main_menu .navbar-toggler {
+        outline: 0;
+        margin-right: 15px;
+        border: 1px solid #2046DA;
+        padding: 6px 7px 5px 7px;
+        color: #2046DA;
+        border-radius: 3px;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .main_menu #navbarSupportedContent {
+        background: #fff;
+        padding: 15px 0px;
+        text-align: center;
+        margin-top: 8px;
+        border: 1px solid #C8D3FF;
+        border-radius: 5px;
+    }
+    .dropdown-menu.show {
+        display: block;
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .menu_droapdown {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    /* 	MENU END */
+    .wsus__banner_text h1 {
+        font-size: 45px;
+    }
+    .wsus__search_area {
+        margin-bottom: 10px;
+    }
+    #wsus__banner form {
+        padding-bottom: 0;
+    }
+    .slick-dots {
+        display: none !important;
+    }
+    #wsus__category_slider .nxt_arr {
+        right: -40px;
+    }
+    #wsus__category_slider .prv_arr {
+        left: -40px;
+    }
+    .wsus__feature_single {
+        padding: 30px;
+    }
+    .wsus__feature_single h5 {
+        font-size: 20px;
+    }
+    .wsus__counter_top_text h5 {
+        font-size: 25px;
+        text-align: center;
+    }
+    .wsus__counter_single {
+        margin-bottom: 30px;
+    }
+    .wsus__counter_single span {
+        font-size: 30px;
+    }
+    .wsus__counter_single p {
+        font-size: 16px;
+    }
+    .wsus__location_filter button {
+        margin: 0px 2px;
+        padding: 7px 15px;
+    }
+    .wsus__featured_single_text h6 {
+        font-size: 16px;
+    }
+    #wsus__map_popup .modal-dialog {
+        width: 90%;
+    }
+    .map_popup_content img {
+        width: 40% !important;
+        float: left;
+    }
+    .map_popup_content {
+        margin-bottom: 30px;
+    }
+    .map_popup_text {
+        width: 60%;
+        padding: 10px 10px 0px 15px;
+    }
+    .map_popup_text h5 {
+        font-size: 18px;
+        margin: 12px 0px 12px 0px;
+    }
+    .read_btn {
+        padding: 7px 15px;
+    }
+    .map_popup_text p {
+        font-size: 14px;
+        margin-bottom: 12px;
+    }
+    .map_popup_text .call,
+    .map_popup_text .mail {
+        font-size: 14px;
+        margin-bottom: 7px;
+    }
+    .map_popup_content_map {
+        height: 200px;
+    }
+    #wsus__map_popup .popup_close {
+        top: -5px;
+        right: -5px;
+    }
+    .subs_text h3 {
+        text-align: center;
+    }
+    .subs_text p {
+        margin: 15px 0px;
+        text-align: center;
+    }
+    .footer_text {
+        margin-bottom: 70px;
+    }
+    footer h3 {
+        font-size: 20px;
+        margin-bottom: 25px;
+    }
+    .footer_bottom {
+        margin-top: 22px;
+    }
+    /* ABOUT PAGE START  */
+    #breadcrumb_part h4 {
+        font-size: 35px;
+    }
+    .bread_overlay {
+        padding: 55px 0px 45px 0px;
+    }
+    #breadcrumb_part nav {
+        margin-top: 15px;
+    }
+    /* BLOG DETAILS PAGE START */
+    .blog_sidebar {
+        margin-bottom: 30px;
+    }
+    /* CONTACT PAGE START */
+    .contact_box_icon {
+        padding: 30px 20px;
+        width: 25%;
+    }
+    .contact_box_text {
+        width: 75%;
+    }
+    .contact_box_icon i {
+        font-size: 30px;
+    }
+    .contact_box_text a,
+    .contact_box_text p {
+        font-size: 14px;
+    }
+    .contact_map {
+        margin: 70px 0px;
+    }
+    /* LISTING DETAILS PAGE START */
+    .listing_details_sidebar {
+        margin-top: 30px;
+    }
+    /* LISTING GRID VIEW */
+    #listing_grid {
+        padding: 100px 0px 90px 0px;
+    }
+    .listing_grid_sidbar {
+        margin-bottom: 30px;
+    }
+    .wsus__featured_single {
+        margin-bottom: 10px;
+    }
+    /* LISTING LIST VIEW */
+    .list_view .wsus__featured_single_text h6 {
+        font-size: 18px;
+    }
+    .list_view .wsus__featured_single_text {
+        padding: 15px;
+        position: initial;
+    }
+    .list_view .small_text {
+        right: 52% !important;
+        left: auto !important;
+    }
+    /* DASHBOARD START */
+    .dashboard_sidebar {
+        width: 40%;
+        transform: scaleX(0);
+        transform-origin: left;
+        transition: all linear .3s;
+        -webkit-transition: all linear .3s ease;
+        -moz-transition: all linear .3s ease;
+        -ms-transition: all linear .3s ease;
+        -o-transition: all linear .3s ease;
+        -webkit-transform: scaleX(0);
+        -moz-transform: scaleX(0);
+        -ms-transform: scaleX(0);
+        -o-transform: scaleX(0);
+    }
+    .dashboard_sidebar .close_icon {
+        display: block;
+    }
+    .dashboard_sidebar.\.menu_show {
+        transform: scaleX(1);
+        -webkit-transform: scaleX(1);
+        -moz-transform: scaleX(1);
+        -ms-transform: scaleX(1);
+        -o-transform: scaleX(1);
+    }
+    .dashboard_content {
+        padding: 110px 10px 45px 0px;
+    }
+    .manage_dashboard_single {
+        padding: 20px;
+        margin-bottom: 30px;
+    }
+    .manage_dashboard_single i {
+        font-size: 50px;
+    }
+    .dashboard_table .active_left,
+    .dashboard_table .package_right {
+        min-width: 50%;
+    }
+    .active_package {
+        margin-top: 0;
+    }
+    /* CREATE LISTING START */
+    .medicine_row_input input {
+        width: 83%;
+    }
+    .medicine_row_input button {
+        width: 15%;
+    }
+    /* DASHBOARD ORDER */
+    .my_listing .table tr td {
+        font-size: 14px;
+    }
+    .my_listing .table .package,
+    .my_listing .table .e_date,
+    .my_listing .table .p_date {
+        min-width: 150px;
+    }
+    .my_listing .table .price {
+        min-width: 100px;
+    }
+    .my_listing .table .method {
+        min-width: 150px;
+    }
+    .my_listing .table .tr_id {
+        min-width: 300px;
+    }
+    /* DASHBOARD PACKAGE */
+    .p_xm_0 {
+        padding: 0;
+        box-shadow: none;
+    }
+    /* DASHBOARD PROFILE */
+    .profile_pic_upload {
+        margin-bottom: 15px;
+    }
+    .banner_pic_upload input {
+        width: 80%;
+    }
+    .wsus__banner_overlay {
+        padding: 220px 0px 220px 0px;
+        ;
+    }
+    .wsus__category_slider_area {
+        margin: 80px 0px;
+        border: none;
+        box-shadow: none;
+    }
+    #wsus__features {
+        padding: 100px 0px 100px 0px;
+    }
+    .list_view .open,
+    .list_view .close {
+        left: auto;
+        right: 10px;
+    }
+    .wsus__single_comment_img img {
+        width: 60px !important;
+        height: 60px;
+    }
+    .wsus__profile_header img {
+        width: 230px;
+        height: 230px;
+    }
+    .wsus__profile_text span {
+        font-size: 14px;
+    }
+    .wsus__category_single {
+        height: 230px;
+    }
+    .list_view .wsus__featured_single_text .list_details {
+        font-size: 14px;
+        margin-bottom: 10px;
+        margin-top: 7px;
+    }
+    .footer_bottom_link li a {
+        font-size: 14px;
+    }
+    .footer_bottom p {
+        font-size: 14px;
+    }
+    #wsws__404_page {
+        margin: 46px 0px 102px 0px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.99px) {
+    /* ERROR PAGE START */
+    #wsws__404_page {
+        margin: 90px 0px 134px 0px;
+    }
+    .wsus__404_text h1 {
+        font-size: 90px;
+    }
+    .wsus__404_text h3 {
+        font-size: 30px;
+    }
+    .wsus__404_text h3 span {
+        font-size: 30px;
+    }
+    .wsus__404_text a {
+        margin-top: 35px;
+    }
+    /* ERROR PAGE END */
+    /* MENU START */
+    .main_menu {
+        height: 60px;
+        border-bottom: 1px solid #2046DA;
+    }
+    .right_menu {
+        justify-content: center;
+        width: 100%;
+    }
+    .main_menu .navbar-brand {
+        margin-left: 15px;
+    }
+    .main_menu .navbar-toggler {
+        outline: 0;
+        margin-right: 15px;
+        border: 1px solid #2046DA;
+        padding: 6px 7px 5px 7px;
+        color: #2046DA;
+        border-radius: 3px;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .main_menu #navbarSupportedContent {
+        background: #fff;
+        padding: 15px 0px;
+        text-align: center;
+        margin-top: 8px;
+        border: 1px solid #C8D3FF;
+        border-radius: 5px;
+    }
+    .dropdown-menu.show {
+        display: block;
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .menu_droapdown {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .wsus__topbar_right {
+        justify-content: center;
+    }
+    /* BANNER START */
+    .wsus__banner_text h1 {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 600;
+        font-size: 30px;
+        color: #fff;
+    }
+    .wsus__banner_text p {
+        font-size: 16px;
+    }
+    .wsus__search_area {
+        margin-bottom: 10px;
+    }
+    #wsus__banner form {
+        padding-bottom: 0;
+    }
+    .wsus__banner_overlay {
+        padding: 145px 0px 150px 0px;
+    }
+    .slick-dots {
+        bottom: -30px !important;
+    }
+    #wsus__category_slider .nxt_arr {
+        right: -40px;
+    }
+    #wsus__category_slider .prv_arr {
+        left: -40px;
+    }
+    .wsus__category_slider_area {
+        margin: 70px 0px;
+        padding: 0;
+        border: none;
+        box-shadow: none;
+    }
+    #wsus__features {
+        padding: 70px 0px 70px 0px;
+    }
+    .wsus__heading_area h2 {
+        font-size: 25px;
+    }
+    .wsus__heading_area p {
+        font-size: 14px;
+        ;
+    }
+    .wsus__feature_single {
+        padding: 25px;
+    }
+    .wsus__feature_single h5 {
+        font-size: 20px;
+    }
+    .wsus__counter_overlay {
+        padding: 70px 0px;
+    }
+    .wsus__counter_top_text h5 {
+        font-size: 25px;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .wsus__counter_single p {
+        font-size: 14px;
+    }
+    .wsus__counter_single {
+        margin-bottom: 30px;
+    }
+    .wsus__categorye_overlay {
+        padding: 70px 0px 65px 0px;
+    }
+    .wsus__heading_area {
+        margin-bottom: 0;
+    }
+    #wsus__counter .wsus__heading_area {
+        margin-bottom: 25px;
+    }
+    #wsus__categoryes .wsus__heading_area {
+        margin-bottom: 10px;
+    }
+    .wsus__location_overlay {
+        padding: 70px 0px 78px 0px;
+    }
+    .wsus__location_filter button {
+        font-size: 13px;
+        margin: 5px 5px;
+        padding: 10px 15px;
+    }
+    .wsus__location_text p {
+        font-size: 15px;
+    }
+    #wsus__featured_listing {
+        padding: 70px 0px 100px 0px;
+    }
+    .wsus__package_overlay {
+        padding: 70px 0px 70px 0px;
+    }
+    .blog_part_overlay {
+        padding: 70px 0px;
+    }
+    .subscribe_bg {
+        padding: 20px;
+    }
+    .subs_text h3 {
+        font-size: 20px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    .subs_form form input {
+        padding: 15px 20px;
+        font-size: 16px;
+    }
+    .subs_form form button {
+        padding: 12.5px 20px;
+        font-size: 16px;
+    }
+    .subs_text p {
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    .wsus__single_clients p {
+        padding-left: 20px;
+        font-size: 14px;
+    }
+    .wsus__single_clients p i {
+        font-size: 20px;
+    }
+    .wsus__test_overlay {
+        padding: 70px 0px;
+    }
+    .wsus__single_clients img {
+        margin-left: 0;
+        margin-right: 10px;
+    }
+    .wsus__single_clients .c_name {
+        font-size: 16px;
+    }
+    footer {
+        padding-top: 65px;
+    }
+    footer h3 {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    .footer_text {
+        margin-bottom: 40px;
+        display: block;
+        overflow: hidden;
+    }
+    .footer_bottom {
+        margin-top: 20px;
+        padding: 30px 0px 20px 0px;
+    }
+    .footer_bottom_link li a {
+        font-size: 15px;
+    }
+    .footer_text p {
+        font-size: 14px;
+    }
+    .footer_link li a {
+        font-size: 14px;
+    }
+    .footer_bottom_pay_icon {
+        display: flex;
+        justify-content: flex-start;
+        margin-top: 5px;
+    }
+    .single_blog p {
+        font-size: 14px;
+    }
+    .single_blog h4 {
+        font-size: 18px;
+    }
+    .read_btn {
+        font-size: 14px;
+    }
+    .single_blog span {
+        font-size: 12px;
+        margin-right: 15px;
+    }
+    .member_price p {
+        margin-bottom: 14px;
+    }
+    .footer_icon {
+        display: block;
+        overflow: hidden;
+        margin-bottom: 15px;
+    }
+    .member_price h5 {
+        font-size: 25px;
+    }
+    .member_price h4 {
+        font-size: 14px;
+        padding: 10px 15px;
+    }
+    .wsus__featured_single_text h6 {
+        font-size: 16px;
+    }
+    #wsus__map_popup .modal-dialog {
+        width: 95%;
+    }
+    .map_popup_text h5 {
+        font-size: 18px;
+    }
+    .map_popup_text .call,
+    .map_popup_text .mail {
+        font-size: 14px;
+    }
+    .map_popup_text p {
+        font-size: 14px;
+    }
+    .map_popup_text span {
+        margin-right: 5px;
+        padding: 0px 15px;
+    }
+    .map_popup_content img {
+        display: none;
+    }
+    .map_popup_content_map {
+        height: 250px;
+    }
+    #wsus__map_popup .popup_close {
+        top: -5px;
+        right: -5px;
+    }
+    .wsus__category_text_center span {
+        padding: 0px 10px;
+        font-size: 12px;
+    }
+    .wsus__category_text_center p {
+        font-size: 14px;
+    }
+    /* ABOUT PAGE START */
+    #breadcrumb_part h4 {
+        font-size: 30px;
+    }
+    .bread_overlay {
+        padding: 55px 0px 45px 0px;
+    }
+    #breadcrumb_part nav {
+        margin-top: 15px;
+    }
+    #about_page {
+        padding: 70px 0px;
+    }
+    .about_text h4 {
+        font-size: 18px;
+        text-align: center;
+    }
+    .about_text p {
+        text-align: center;
+    }
+    .about_page_features_mar {
+        padding-top: 70px !important;
+    }
+    /* BLOG DETAILS STARRT */
+    #blog_details {
+        padding: 70px 0px;
+    }
+    .main_blog_header li a {
+        font-size: 14px;
+        margin-right: 15px;
+        padding-right: 15px;
+    }
+    .main_blog h4 {
+        font-size: 20px;
+        text-align: center;
+    }
+    .main_blog p {
+        font-size: 13px;
+        text-align: center;
+    }
+    .main_blog p span {
+        font-size: 13px;
+    }
+    .blog_sidebar {
+        margin-bottom: 30px;
+    }
+    /* CONTACT PAGE START */
+    .contact_box_icon {
+        padding: 35px 45px;
+        width: 24%;
+    }
+    #get_in_touch h2 {
+        font-size: 20px;
+    }
+    #get_in_touch {
+        padding-top: 70px;
+    }
+    .contact_map {
+        margin: 70px 0px;
+    }
+    /* LISTING DETAILS PAGE START */
+    #listing_details {
+        padding: 70px 0px;
+    }
+    .listing_det_header_text h6 {
+        font-size: 25px;
+        margin-top: 20px;
+    }
+    .listing_det_header_img {
+        width: 40%;
+        margin-left: 30%;
+        margin-right: 0px;
+    }
+    .listing_det_header_text {
+        float: none;
+        width: 100%;
+        overflow: hidden;
+    }
+    .listing_det_header {
+        text-align: center;
+    }
+    .listing_det_header_text ul {
+        justify-content: center;
+    }
+    .listing_det_location {
+        margin-bottom: 30px;
+    }
+    .listing_det_side_list .sidebar_blog_text h5 {
+        font-size: 13px;
+    }
+    /* LISTING GRID VIEW */
+    .listing_grid_sidbar {
+        margin-bottom: 30px;
+    }
+    #listing_grid {
+        padding: 70px 0px 70px 0px;
+    }
+    /* LISTING LIST VIEW */
+    .list_view .list_padding {
+        padding: 0 .75rem;
+    }
+    .list_view .wsus__featured_single_text h6 {
+        font-size: 20px;
+    }
+    .wsus__featured_single {
+        margin-bottom: 10px;
+    }
+    /* DASHBOARD START */
+    .dashboard_sidebar {
+        width: 50%;
+        transform: scaleX(0);
+        transform-origin: left;
+        transition: all linear .3s;
+        -webkit-transition: all linear .3s ease;
+        -moz-transition: all linear .3s ease;
+        -ms-transition: all linear .3s ease;
+        -o-transition: all linear .3s ease;
+        -webkit-transform: scaleX(0);
+        -moz-transform: scaleX(0);
+        -ms-transform: scaleX(0);
+        -o-transform: scaleX(0);
+    }
+    .dashboard_sidebar .close_icon {
+        display: block;
+    }
+    .dashboard_sidebar.\.menu_show {
+        transform: scaleX(1);
+        -webkit-transform: scaleX(1);
+        -moz-transform: scaleX(1);
+        -ms-transform: scaleX(1);
+        -o-transform: scaleX(1);
+    }
+    .dashboard_content {
+        padding: 110px 10px 45px 0px;
+    }
+    .manage_dashboard_single {
+        padding: 20px;
+        margin-bottom: 30px;
+    }
+    .manage_dashboard_single i {
+        font-size: 50px;
+    }
+    .dashboard_table .active_left,
+    .dashboard_table .package_right {
+        min-width: 250px;
+    }
+    .active_package {
+        padding: 30px;
+    }
+    .active_package {
+        margin-top: 0;
+    }
+    /* CREATE LISTING START */
+    .dashboard_content h4 {
+        font-size: 20px;
+    }
+    .my_listing_single label {
+        font-size: 15px;
+    }
+    #medicine_row label,
+    #medicine_row2 label {
+        font-size: 13px;
+    }
+    #medicine_row label span,
+    #medicine_row2 label span {
+        font-size: 12px;
+    }
+    .medicine_row_input input {
+        width: 85%;
+    }
+    .medicine_row_input button {
+        width: 12%;
+        font-size: 15px;
+    }
+    /* DASHBOARD LISTING */
+    .active_inactive_text {
+        padding: 60px 20px 20px 20px;
+    }
+    .active_inactive_text h3 {
+        font-size: 16px;
+    }
+    .active_inactive_text .color_text a {
+        padding: 5px 15px;
+    }
+    /* DASHBOARD ORDER */
+    .my_listing .table tr td {
+        font-size: 14px;
+    }
+    .my_listing .table .package,
+    .my_listing .table .e_date,
+    .my_listing .table .p_date {
+        min-width: 150px;
+    }
+    .my_listing .table .price {
+        min-width: 100px;
+    }
+    .my_listing .table .method {
+        min-width: 150px;
+    }
+    .my_listing .table .tr_id {
+        min-width: 300px;
+    }
+    /* DASHBOARD PACKAGE */
+    .p_xm_0 {
+        padding: 0;
+        box-shadow: none;
+    }
+    /* DASHBOARD PROFILE */
+    .profile_pic_upload {
+        margin-bottom: 15px;
+    }
+    .profile_pic_upload {
+        height: 300px;
+    }
+    .banner_pic_upload input {
+        width: 95%;
+    }
+    /* DASHBOARD REVIEW */
+    .visitor_rev_img {
+        width: 27%;
+    }
+    .visitor_rev_text {
+        width: 73%;
+    }
+    .visitor_rev_text .title {
+        font-size: 17px;
+    }
+    .visitor_rev_text .title span {
+        font-size: 13px;
+        margin-left: 5px;
+    }
+    .visitor_rev_text p {
+        font-size: 13px;
+        margin: 5px 0px 3px 0px;
+    }
+    .visitor_rev_text .small_text {
+        margin-bottom: 10px;
+    }
+    .footer_bottom_link {
+        justify-content: start;
+        margin-left: 15px;
+    }
+    .map_popup_content {
+        margin-bottom: 30px;
+    }
+    .list_view .open,
+    .list_view .close {
+        left: auto;
+        right: 10px;
+    }
+    .wsus__single_comment_img {
+        width: 15%;
+    }
+    .wsus__single_comment_img img {
+        width: 60px !important;
+        height: 60px;
+    }
+    .wsus__single_comment_text {
+        width: 85%;
+        padding-left: 10px;
+    }
+    .wsus__single_comment_text h5 {
+        font-size: 16px !important;
+    }
+    .wsus__single_comment_text p {
+        text-align: left !important;
+    }
+    .wsus__listing_review {
+        margin-bottom: 30px;
+    }
+    #wsus__custom_page {
+        padding: 65px 0px;
+        text-align: center;
+    }
+    #wsus__custom_page p {
+        font-size: 15px;
+    }
+    #wsus__custom_page p span {
+        font-size: 15px;
+    }
+    #medicine_row3 .medicine_row_input button {
+        margin-top: 0;
+    }
+    #wsus__agent_profile {
+        padding: 70px 0px;
+    }
+    .wsus__profile_header {
+        display: block;
+        margin-bottom: 20px;
+    }
+    .wsus__profile_text {
+        padding: 20px 0px 0px 0px;
+    }
+    .wsus__profile_text a i,
+    .wsus__profile_text p i {
+        width: 20px;
+    }
+    .wsus__agent_link {
+        width: 100%;
+        position: static;
+        transform: translateY(0);
+        -webkit-transform: translateY(0);
+        -moz-transform: translateY(0);
+        -ms-transform: translateY(0);
+        -o-transform: translateY(0);
+        display: flex;
+        margin-top: 20px;
+    }
+    .wsus__agent_link li a {
+        margin-bottom: 0;
+        margin-right: 10px;
+    }
+    .wsus__category_single {
+        height: 160px;
+    }
+    .list_view .wsus__featured_single .list_images {
+        width: 100%;
+    }
+    .list_view .wsus__featured_single_text {
+        width: 100%;
+        padding: 30px 20px 20px 20px;
+    }
+    .list_view .small_text {
+        top: -20px !important;
+        right: auto !important;
+        left: 20px !important;
+    }
+    /* new css start */
+    .wsus__payment {
+        text-align: left;
+    }
+    .wsus__payment .nav-tabs {
+        border-bottom: none;
+    }
+    .wsus__cash_delivery ul li {
+        font-size: 15px;
+    }
+    /* new css end */
+}
+
+@media (max-width: 575.99px) {
+    /* ERROR PAGE START */
+    #wsws__404_page {
+        margin: 58px 0px 102px 0px;
+    }
+    .wsus__404_text h1 {
+        font-size: 90px;
+    }
+    .wsus__404_text h3 {
+        font-size: 30px;
+    }
+    .wsus__404_text h3 span {
+        font-size: 30px;
+    }
+    .wsus__404_text a {
+        margin-top: 35px;
+    }
+    /* ERROR PAGE END */
+    /* MENU START */
+    .main_menu {
+        height: 60px;
+        border-bottom: 1px solid #2046DA;
+    }
+    .right_menu {
+        justify-content: center;
+        width: 100%;
+    }
+    .main_menu .navbar-brand {
+        margin-left: 15px;
+    }
+    .main_menu .navbar-toggler {
+        outline: 0;
+        margin-right: 15px;
+        border: 1px solid #2046DA;
+        padding: 6px 7px 5px 7px;
+        color: #2046DA;
+        border-radius: 3px;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .main_menu #navbarSupportedContent {
+        background: #fff;
+        padding: 15px 0px;
+        text-align: center;
+        margin-top: 8px;
+        border: 1px solid #C8D3FF;
+        border-radius: 5px;
+    }
+    .dropdown-menu.show {
+        display: block;
+        margin-right: 0;
+        margin-left: 0;
+    }
+    .menu_droapdown {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .wsus__topbar_right {
+        justify-content: center;
+    }
+    /* BANNER START */
+    .wsus__banner_text h1 {
+        font-family: 'Poppins', sans-serif;
+        font-weight: 600;
+        font-size: 30px;
+        color: #fff;
+    }
+    .wsus__banner_text p {
+        font-size: 16px;
+    }
+    .wsus__search_area {
+        margin-bottom: 10px;
+    }
+    #wsus__banner form {
+        padding-bottom: 0;
+    }
+    .wsus__banner_overlay {
+        padding: 90px 0px 100px 0px;
+    }
+    .wsus__category_slider_area {
+        margin: 70px 0px;
+    }
+    #wsus__features {
+        padding: 70px 0px 70px 0px;
+    }
+    .wsus__heading_area h2 {
+        font-size: 25px;
+    }
+    .wsus__heading_area p {
+        font-size: 13px;
+    }
+    .wsus__feature_single {
+        padding: 25px;
+    }
+    .wsus__category_text_center p {
+        font-size: 14px;
+    }
+    .wsus__feature_single h5 {
+        font-size: 20px;
+    }
+    .wsus__counter_overlay {
+        padding: 70px 0px;
+    }
+    .wsus__counter_top_text h5 {
+        font-size: 25px;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .wsus__counter_single p {
+        font-size: 14px;
+    }
+    .wsus__counter_single {
+        margin-bottom: 30px;
+    }
+    .wsus__categorye_overlay {
+        padding: 70px 0px 65px 0px;
+    }
+    .wsus__heading_area {
+        margin-bottom: 0;
+    }
+    #wsus__counter .wsus__heading_area {
+        margin-bottom: 25px;
+    }
+    #wsus__categoryes .wsus__heading_area {
+        margin-bottom: 10px;
+    }
+    .wsus__location_overlay {
+        padding: 70px 0px 78px 0px;
+    }
+    .wsus__location_filter button {
+        font-size: 13px;
+        margin: 2px 0px;
+        padding: 7px 12px;
+    }
+    .wsus__location_text p {
+        font-size: 15px;
+    }
+    #wsus__featured_listing {
+        padding: 70px 0px 100px 0px;
+    }
+    .wsus__package_overlay {
+        padding: 70px 0px 70px 0px;
+    }
+    .blog_part_overlay {
+        padding: 70px 0px;
+    }
+    .subs_text h3 {
+        font-size: 18px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    .subs_form form input {
+        padding: 15px 15px;
+        font-size: 13px;
+    }
+    .subs_form form button {
+        padding: 13px 18px;
+        font-size: 13px;
+    }
+    .subs_text p {
+        font-size: 14px;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    .wsus__single_clients p {
+        padding-left: 20px;
+        font-size: 14px;
+    }
+    .wsus__single_clients p i {
+        font-size: 20px;
+    }
+    .wsus__test_overlay {
+        padding: 70px 0px;
+    }
+    .wsus__single_clients img {
+        margin-left: 0;
+        margin-right: 10px;
+    }
+    .wsus__single_clients .c_name {
+        font-size: 16px;
+    }
+    footer {
+        padding-top: 65px;
+    }
+    footer h3 {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+    .footer_text {
+        margin-bottom: 40px;
+        display: block;
+        overflow: hidden;
+    }
+    .footer_bottom {
+        margin-top: 20px;
+        padding: 30px 0px 20px 0px;
+    }
+    .footer_bottom_link {
+        list-style: none;
+        display: block;
+        overflow: hidden;
+    }
+    .footer_bottom_link li a {
+        font-size: 12px;
+    }
+    .footer_bottom_link li {
+        margin-right: 10px;
+        float: left;
+        padding-left: 0;
+    }
+    .footer_text p {
+        font-size: 14px;
+    }
+    .footer_link li a {
+        font-size: 14px;
+    }
+    .footer_bottom p {
+        font-size: 14px;
+    }
+    .footer_bottom_pay_icon {
+        display: flex;
+        justify-content: flex-start;
+        margin-top: 5px;
+    }
+    .single_blog p {
+        font-size: 14px;
+    }
+    .single_blog h4 {
+        font-size: 18px;
+    }
+    .read_btn {
+        font-size: 14px;
+    }
+    .single_blog span {
+        font-size: 12px;
+    }
+    .footer_icon {
+        display: block;
+        overflow: hidden;
+        margin-bottom: 15px;
+    }
+    .member_price h5 {
+        font-size: 25px;
+    }
+    .member_price h4 {
+        font-size: 14px;
+        padding: 10px 15px;
+    }
+    .wsus__featured_single_text h6 {
+        font-size: 16px;
+    }
+    #wsus__map_popup .modal-dialog {
+        width: 95%;
+    }
+    .map_popup_text h5 {
+        font-size: 18px;
+    }
+    .map_popup_text .call,
+    .map_popup_text .mail {
+        font-size: 14px;
+    }
+    .map_popup_text p {
+        font-size: 14px;
+    }
+    .map_popup_text span {
+        margin-right: 5px;
+        padding: 0px 10px;
+    }
+    .map_popup_content img {
+        display: none;
+    }
+    .map_popup_content_map {
+        height: 200px;
+    }
+    #wsus__map_popup .popup_close {
+        top: -5px;
+        right: -5px;
+    }
+    /* ABOUT PAGE START */
+    #breadcrumb_part h4 {
+        font-size: 30px;
+    }
+    .bread_overlay {
+        padding: 55px 0px 45px 0px;
+    }
+    #breadcrumb_part nav {
+        margin-top: 15px;
+    }
+    #breadcrumb_part li {
+        font-size: 14px;
+    }
+    #about_page {
+        padding: 70px 0px;
+    }
+    .about_text h4 {
+        font-size: 18px;
+        text-align: center;
+    }
+    .about_text p {
+        text-align: center;
+    }
+    .about_page_features_mar {
+        padding-top: 70px !important;
+    }
+    /* BLOG DETAILS STARRT */
+    #blog_details {
+        padding: 70px 0px;
+    }
+    .sidebar_blog_text h5 {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    .sidebar_blog_text p {
+        font-size: 13px;
+    }
+    .sidebar_blog_text p span {
+        margin-right: 5px;
+        padding-right: 5px;
+        font-size: 13px;
+    }
+    .main_blog_header {
+        display: block;
+        overflow: hidden;
+    }
+    .main_blog_header li {
+        float: left;
+    }
+    .main_blog_header li a {
+        font-size: 13px;
+        margin-right: 10px;
+        padding-right: 10px;
+    }
+    .main_blog h4 {
+        font-size: 20px;
+        text-align: center;
+    }
+    .main_blog p {
+        font-size: 13px;
+        text-align: center;
+    }
+    .main_blog p span {
+        font-size: 13px;
+    }
+    .blog_sidebar {
+        margin-bottom: 30px;
+    }
+    /* BLOG PAGE START */
+    #pagination .page-item .page-link {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+    /* CONTACT PAGE START */
+    .contact_box_icon {
+        padding: 30px 28px;
+    }
+    #get_in_touch h2 {
+        font-size: 20px;
+    }
+    #get_in_touch {
+        padding-top: 70px;
+    }
+    .contact_map {
+        margin: 70px 0px;
+    }
+    /* LISTING DETAILS PAGE START */
+    #listing_details {
+        padding: 70px 0px;
+    }
+    .listing_det_header_text h6 {
+        font-size: 25px;
+        margin-top: 20px;
+        text-align: left;
+    }
+    .listing_det_header_img {
+        width: 40%;
+        margin-left: 30%;
+        margin-right: 0px;
+    }
+    .listing_det_header_text {
+        float: none;
+        width: 100%;
+        overflow: hidden;
+    }
+    .listing_det_header {
+        text-align: center;
+    }
+    .listing_det_header_text ul {
+        display: block;
+    }
+    .listing_det_header_text ul li {
+        float: left;
+    }
+    .listing_det_header_text ul li a {
+        margin-right: 10px;
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+    .listing_det_location {
+        margin-bottom: 30px;
+    }
+    .sidebar_blog_img {
+        width: 100%;
+        padding: 0;
+    }
+    .sidebar_blog_text {
+        width: 100%;
+    }
+    .listing_det_side_list .sidebar_blog_text h5 {
+        font-size: 16px;
+        margin-top: 15px;
+        margin-bottom: 5px;
+    }
+    /* LISTING GRID VIEW */
+    #listing_grid {
+        padding: 70px 0px 60px 0px;
+    }
+    .listing_grid_sidbar {
+        margin-bottom: 30px;
+    }
+    .wsus__property_topbar_left ul li a {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+    }
+    .select2-container--default .select2-selection--single {
+        padding: 6.5px 7px;
+    }
+    .wsus__property_topbar_left ul li:last-child a {
+        border-right: 0;
+    }
+    .wsus__featured_single {
+        margin-bottom: 10px;
+    }
+    /* LISTING LIST VIEW */
+    .list_view .list_padding {
+        padding: 0 .75rem;
+    }
+    .list_view .wsus__featured_single .list_images {
+        width: 100%;
+        float: left;
+    }
+    .list_view .wsus__featured_single_text {
+        width: 100%;
+        padding: 30px 10px 10px 10px;
+    }
+    .list_view .wsus__featured_single_text h6 {
+        font-size: 16px;
+    }
+    /* DASHBOARD START */
+    .dashboard_sidebar {
+        width: 85%;
+        transform: scaleX(0);
+        transform-origin: left;
+        transition: all linear .3s;
+        -webkit-transition: all linear .3s ease;
+        -moz-transition: all linear .3s ease;
+        -ms-transition: all linear .3s ease;
+        -o-transition: all linear .3s ease;
+        -webkit-transform: scaleX(0);
+        -moz-transform: scaleX(0);
+        -ms-transform: scaleX(0);
+        -o-transform: scaleX(0);
+    }
+    .dashboard_sidebar .close_icon {
+        display: block;
+    }
+    .dashboard_sidebar.\.menu_show {
+        transform: scaleX(1);
+        -webkit-transform: scaleX(1);
+        -moz-transform: scaleX(1);
+        -ms-transform: scaleX(1);
+        -o-transform: scaleX(1);
+    }
+    .dashboard_content {
+        padding: 110px 10px 45px 0px;
+    }
+    .manage_dashboard_single {
+        padding: 20px;
+        margin-bottom: 30px;
+    }
+    .manage_dashboard_single i {
+        font-size: 50px;
+    }
+    .dashboard_table .active_left,
+    .dashboard_table .package_right {
+        min-width: 250px;
+    }
+    .active_package {
+        margin-top: 0;
+    }
+    /* CREATE LISTING START */
+    .dashboard_breadcrumb {
+        display: block;
+    }
+    .dashboard_breadcrumb ul li a {
+        font-size: 13px;
+        margin-right: 5px;
+    }
+    .dashboard_breadcrumb ul li a i {
+        font-size: 12px;
+        margin-left: 5px;
+    }
+    .dashboard_breadcrumb span {
+        margin-bottom: 5px;
+        display: block;
+    }
+    .dashboard_content h4 {
+        font-size: 18px;
+    }
+    .my_listing_single label {
+        font-size: 13px;
+    }
+    #medicine_row label,
+    #medicine_row2 label {
+        font-size: 13px;
+    }
+    #medicine_row label span,
+    #medicine_row2 label span {
+        font-size: 12px;
+    }
+    .medicine_row_input input {
+        width: 80%;
+    }
+    .medicine_row_input button {
+        width: 18%;
+        font-size: 15px;
+    }
+    .dashboard_content h4 span {
+        font-size: 12px;
+    }
+    .amenities_check_area label {
+        font-size: 14px;
+    }
+    /* DASHBOARD LISTING */
+    .active_inactive_img {
+        width: 100%;
+    }
+    .active_inactive_text {
+        width: 100%;
+        padding: 15px;
+        position: initial;
+    }
+    .active_inactive_item {
+        position: relative;
+    }
+    .active_inactive_text h3 {
+        font-size: 16px;
+    }
+    .active_inactive_text p {
+        font-size: 14px;
+        margin: 10px 0px 10px 0px;
+    }
+    .active_inactive_text .color_text a {
+        padding: 5px 10px;
+        margin-top: 5px;
+        font-size: 12px;
+        margin-right: 0;
+    }
+    .active_inactive_text .color_text a i {
+        margin-right: 0;
+    }
+    /* DASHBOARD ORDER */
+    .my_listing .table tr td {
+        font-size: 14px;
+    }
+    .my_listing .table .package,
+    .my_listing .table .e_date,
+    .my_listing .table .p_date {
+        min-width: 150px;
+    }
+    .my_listing .table .price {
+        min-width: 100px;
+    }
+    .my_listing .table .method {
+        min-width: 150px;
+    }
+    .my_listing .table .tr_id {
+        min-width: 300px;
+    }
+    .p_xm_0 {
+        padding: 0;
+        box-shadow: none;
+    }
+    /* DASHBOARD PACKAGE */
+    .p_xm_0 {
+        padding: 0;
+        box-shadow: none;
+    }
+    /* DASHBOARD PROFILE */
+    .profile_pic_upload {
+        margin-bottom: 15px;
+    }
+    .banner_pic_upload input {
+        width: 95%;
+    }
+    /* DASHBOARD REVIEW */
+    .visitor_rev_text {
+        width: 100%;
+        padding-left: 0px;
+    }
+    .visitor_rev_text .title {
+        font-size: 16px;
+        margin-top: 20px;
+    }
+    .visitor_rev_text .title span {
+        font-size: 12px;
+        margin-left: 5px;
+    }
+    .map_popup_content {
+        margin-bottom: 30px;
+    }
+    .listing_det_header_text .rating b {
+        margin: 0px 5px;
+    }
+    .wsus__single_comment_img {
+        width: 20%;
+    }
+    .wsus__single_comment_img img {
+        width: 40px !important;
+        height: 40px;
+    }
+    .wsus__single_comment_text {
+        width: 80%;
+        padding-left: 10px;
+    }
+    .wsus__single_comment_text h5 {
+        font-size: 13px !important;
+        margin: 0 !important;
+    }
+    .wsus__single_comment_text h5 span {
+        padding: 0px 3px;
+        font-size: 12px;
+    }
+    .wsus__single_comment_text p {
+        text-align: left !important;
+    }
+    .wsus__single_comment {
+        padding: 10px;
+    }
+    .wsus__total_rating {
+        display: block;
+    }
+    .wsus__total_rating h4 {
+        text-align: center;
+    }
+    .wsus__total_rating span {
+        text-align: center;
+        display: block;
+    }
+    .wsus__total_rating p {
+        text-align: center;
+    }
+    .wsus__listing_review .wsus__single_comment_text h5 span {
+        padding: 0px 0px;
+        font-size: 11px;
+    }
+    .wsus__listing_review {
+        margin-bottom: 30px;
+    }
+    .listing_det_header_text .host_name {
+        text-align: left;
+    }
+    .listing_det_header_text .rating {
+        text-align: left;
+    }
+    #wsus__custom_page {
+        padding: 65px 0px;
+        text-align: center;
+    }
+    #wsus__custom_page p {
+        font-size: 15px;
+    }
+    #wsus__custom_page p span {
+        font-size: 15px;
+    }
+    .wsus__invoice_top {
+        display: block;
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+    }
+    .wsus__invoice_number h5 {
+        text-align: left;
+        font-size: 18px;
+        margin-top: 20px;
+    }
+    .my_listing {
+        padding: 10px;
+    }
+    .wsus__invoice_header_left h5 {
+        font-size: 14px;
+        margin-bottom: 12px;
+    }
+    .wsus__invoice_header_left h6 {
+        font-size: 12px;
+    }
+    .wsus__invoice_header_left .call_mail {
+        font-size: 12px;
+    }
+    .wsus__invoice_header_left {
+        margin-bottom: 30px;
+    }
+    #medicine_row3 .medicine_row_input button {
+        margin-top: 0;
+    }
+    #wsus__agent_profile {
+        padding: 70px 0px;
+    }
+    .wsus__profile_header {
+        display: block;
+        margin-bottom: 20px;
+    }
+    .wsus__profile_text {
+        padding: 20px 0px 0px 0px;
+    }
+    .wsus__profile_text a i,
+    .wsus__profile_text p i {
+        width: 20px;
+    }
+    .wsus__profile_text a,
+    .wsus__profile_text p {
+        font-size: 13px;
+    }
+    .wsus__profile_text span {
+        font-size: 14px;
+    }
+    .wsus__agent_link {
+        width: 100%;
+        position: static;
+        transform: translateY(0);
+        -webkit-transform: translateY(0);
+        -moz-transform: translateY(0);
+        -ms-transform: translateY(0);
+        -o-transform: translateY(0);
+        display: flex;
+        margin-top: 20px;
+    }
+    .wsus__agent_link li a {
+        margin-bottom: 0;
+        margin-right: 10px;
+    }
+    .listing_det_side_address {
+        padding: 15px;
+    }
+    .listing_det_side_address ul li a {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 14px;
+    }
+    .listing_det_side_address a {
+        font-size: 14px;
+    }
+    .listing_det_side_address p {
+        font-size: 14px;
+    }
+    .listing_det_side_address p i,
+    .listing_det_side_address a i {
+        width: 25px;
+        height: 25px;
+        line-height: 25px;
+        font-size: 12px;
+    }
+    .list_view .small_text {
+        top: -17px !important;
+        right: auto !important;
+        left: 10px !important;
+    }
+    .list_view .wsus__featured_single_text .future_verify {
+        padding: 5px 15px;
+    }
+    /* new css start */
+    .wsus__payment {
+        padding: 15px;
+        text-align: left;
+    }
+    .wsus__payment .nav-tabs {
+        border-bottom: none;
+    }
+    .wsus__cash_delivery ul li {
+        font-size: 15px;
+    }
+    /* new css end */
+}
