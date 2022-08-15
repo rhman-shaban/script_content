@@ -806,7 +806,7 @@
         TESTIMONIAL PART START
     ==============================-->
 
-    @php
+    <!-- @php
         $testimonial_section=$section->where('id',10)->first();
         $testimonials=$testimonials->take($testimonial_section->content_quantity)
     @endphp
@@ -838,7 +838,7 @@
                 </div>
             </div>
         </section>
-    @endif
+    @endif -->
     <!--============================
         TESTIMONIAL PART END
     ==============================-->
